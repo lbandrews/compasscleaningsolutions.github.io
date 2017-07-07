@@ -125,6 +125,30 @@ img.gradientCircle
 	  border-image-slice: 1;
 }
 
+.textright{
+    text-align: right;
+}
+
+.textcenter
+{
+    text-align: center;
+}
+
+.textleft
+{
+    text-align: left;
+}
+
+.floatleft
+{
+    float: left;
+}
+
+.floatright
+{
+    float: right;
+}
+
 hr.separator
 {
 	max-width:100%;
