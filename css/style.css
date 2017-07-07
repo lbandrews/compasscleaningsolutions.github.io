@@ -149,6 +149,11 @@ img.gradientCircle
     float: right;
 }
 
+.footermb
+{
+    margin-bottom: 15px;
+}
+
 hr.separator
 {
 	max-width:100%;
